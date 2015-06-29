@@ -1,4 +1,4 @@
 notifications:
   webhooks:
     urls:
-      - http://fdf7655a.ngrok.io/ciintegrations/travis/5d57107b2dc5026cd801c7efea8a2c7f
+      - http://fdf7655a.ngrok.io/ciintegrations/travis/cda9cc9b8160f32eff98b355149545d1
