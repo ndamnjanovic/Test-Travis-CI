@@ -1,4 +1,4 @@
 notifications:
   webhooks:
     urls:
-      - http://genereated-webhook-url
+      - http://vivifyscrum.dev/ciintegrations/travis/5d57107b2dc5026cd801c7efea8a2c7f
